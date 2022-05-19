@@ -113,3 +113,22 @@ hr{
 .off-white{
     background-color: var(--off-white-color);
 }
+
+
+
+/** footer  **/
+
+.footer{
+    background-color: var(--dark-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+}
+
+.footer .link{
+    color: black;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+}

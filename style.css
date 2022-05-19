@@ -8,7 +8,7 @@
 }
 
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 hr{
@@ -68,9 +68,7 @@ hr{
     padding: 1rem;
     border-bottom-left-radius: 1rem;
 }
-.navigation .link-active {
-    font-weight: bold;
-}
+
 .navigation .nav-brand{
     font-weight: bold;
 }
@@ -81,6 +79,10 @@ hr{
 
 .navigation .link {
     color : white;
+}
+
+.navigation .link-active {
+    font-weight: bold;
 }
 
 /** headewr **/

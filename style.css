@@ -1,0 +1,19 @@
+body{
+    color : brown
+}
+
+h2{
+    color : green
+}
+
+h1{
+    color : blueviolet
+}
+
+#lib-header{
+    color:red
+}
+
+.para{
+    color:rgb(124, 117, 117)
+}
